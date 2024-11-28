@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Aliexpress show VAT
+// @name         AliExpress show VAT
 // @namespace    http://tampermonkey.net/
 // @version      2024.11
-// @description  Adds VAT to the prices shown on Aliexpress
+// @description  Adds VAT to the prices shown on AliExpress
 // @author       ArchieV1
 // @match        https://www.aliexpress.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=aliexpress.com
