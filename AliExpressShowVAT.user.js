@@ -10,10 +10,11 @@
 // ==/UserScript==
 'use strict';
 
-// Edit these two to adjust to your local currency
+// Edit these two to adjust to your local currency/laws
 // To support sites other than .com replace all ".com" with your url on this page
 const VAT_RATE = 1.2; // 20%
 const ALI_CURRENCY_SYMBOL = "￡"; // This is not the standard keyboard £
+// Replace the pounds sign with your currency: $ €
 
 
 const RELOAD_TIME = 0.5; // Seconds
