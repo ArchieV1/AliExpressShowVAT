@@ -230,7 +230,7 @@ function SearchPageHandler(){
 }
 
 function ItemPageHandler(){
-    handleClass("price--current--");
+    handleClass("price--currentPriceText--");
     handleClass("price--originalText--");
 }
 
